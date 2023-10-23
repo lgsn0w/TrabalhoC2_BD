@@ -23,4 +23,4 @@ Para executar o sistema basta executar o script Python a seguir:
     * [main.py](src/main.py): Script responsável por ser a interface entre o usuário e os módulos de acesso ao Banco de Dados. Deve ser executado após a criação das tabelas.
 
 ### Bibliotecas Utilizadas
-- [cx_Oracle](src/requirements.txt): `pip install -r requirements.txt`
+- [requirements.txt](src/requirements.txt): `pip install -r requirements.txt`
