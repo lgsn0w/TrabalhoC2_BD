@@ -26,3 +26,6 @@ Para executar o sistema basta executar o script Python a seguir:
 - [requirements.txt](src/requirements.txt): `pip install -r requirements.txt`
 
 ### Video 
+
+https://github.com/lgsn0w/TrabalhoC2_BD/assets/112468011/1df875e4-a3ab-4bac-b63a-307c79b9742a
+
