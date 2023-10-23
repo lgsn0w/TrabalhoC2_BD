@@ -11,7 +11,7 @@ Para executar o sistema basta executar o script Python a seguir:
 (https://github.com/lgsn0w/TrabalhoC2_BD/blob/main/src/main.py)
 
 ## Organização
-- [diagramas](diagramas): Nesse diretório está o [diagrama relacional]() do sistema.
+- [diagramas](diagramas): Nesse diretório está o [diagrama relacional] (https://github.com/lgsn0w/TrabalhoC2_BD/blob/main/diagramas/DIAGRAMA_RELACIONAL_BANCO_DE_SANGUE.pdf) do sistema.
     * O sistema possui três entidades: DOADORES, BANCO_DE_SANGUE, DOAÇÕES. 
 - [sql](sql): Nesse diretório estão os scripts para criação das tabelas.
     * [tabelas.sql](sql/tabelas.sql): script responsável pela criação das tabelas, relacionamentos e criação de permissão no esquema LabDatabase.
